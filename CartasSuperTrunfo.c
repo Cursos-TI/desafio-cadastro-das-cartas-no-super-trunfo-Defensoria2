@@ -7,7 +7,15 @@
 
 int main() {
     printf("Desafio Super Trunfo\n");
-    
+    char inicial ='A';
+    char nome[50] = "Maceió";
+    int população = 957916;
+    float área = 509,6;
+    float PIB = 22.662,02;
+    int pontos turísticos = 15
+
+
+
     // Sugestão: Defina variáveis separadas para cada atributo da cidade.
     // Exemplos de atributos: código da cidade, nome, população, área, PIB, número de pontos turísticos.
     
